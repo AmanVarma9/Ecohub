@@ -1,0 +1,86 @@
+/*Head*/
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+h1 {
+    line-height: 1.5;
+    font-weight: bolder;
+    color: aliceblue
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+ /*Features*/
+
+ #features {
+    position: relative;
+    padding-left: 5%;
+  }
+  
+  #features .col-lg-4 {
+    padding: 8%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+  }
+  
+  #features i {
+
+    color: #28511c;
+    margin-bottom: 1rem;
+  }
+  
+  #features i:hover {
+    color: #47a52a;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+
+
+.card{
+   align-items: center;
+}
+
+/*Press section*/
+#press {
+    background-color: white;
+    padding-bottom: 3%;
+    padding-top: 10%;
+    padding-left: 20%;
+  }
+  
+  .press-logo {
+
+    margin: 20px 20px 30px;
+    width: 15%;
+  }
+  
+  /*Footer section*/
+
+#footer i {
+    padding: 0.8%;
+  }
+  
+  .copyright {
+    font-size: 0.8rem;
+    padding-top: 5px;
+  }
+  
+  .colored-section1{
+    padding-top: 3%;
+    text-align: center;
+    padding-bottom: 3%;
+  }
+  .big-heading{
+    color: white;
+  }
+  
